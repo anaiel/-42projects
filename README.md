@@ -1,6 +1,9 @@
 ##Projects
+
 ###Inner circle
+
 ####Cursus Start
+
 |   Project name   |                   Description                   |                      Goals                     | Solo/Group |   Status  | Mark | Start Date | End Date |
 |:----------------:|:-----------------------------------------------:|:----------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 | 42 Commandements |              Welcome, young cadet!              |                 Code of conduct                |    Solo    | Completed |  100 |  18-11-05  | 18-11-05 |
