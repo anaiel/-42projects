@@ -35,3 +35,11 @@
 |       Init      | Introduction to systems administration and networks |           Unix, systems administration           |    Solo    | :white_check_mark: |  100 |  18-12-13  | 18-12-22 |
 | Roger-Skyline-1 |      Systems administration and networks basics     |           Unix, systems administration           |    Solo    | :hourglass: |      |            |          |
 |     Docker-1    |                Think with containers!               | Micro services, docker, unix, containers, DevOps |    Solo    | :hourglass: |      |            |          |
+
+## Other projects
+
+### Machile learning workshops
+
+Every week I also attend the machine learning workshops with 42AI, the association for Artificial Intelligence at 42. The workshops aim at giving an understanding of the main machine learning algorithms. Every week, a student gives a presentation on an algorithm, followed by a practical application for the attendees to get their hands dirty, using python and numpy.
+I gave the presentation about the k-means clustering algorithm.
+More information about the content of the workshops and my exercises [here](https://github.com/anaiel/workshops_machinelearning).
