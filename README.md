@@ -83,6 +83,8 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 |      [FdF](https://github.com/anaiel/fdf)     | Represent the mesh in "wire of a field" in 3D | Simple graphic library, segment layout, events, 3D to 2D projection |    Group   | :white_check_mark: |  125 |  19-01-17  | 19-02-14 |
 |   [Fract'ol](https://github.com/anaiel/fractol)   |   Discover the psychedelic world of fractals  |                     2D programming, optimization                    |    Solo    | :white_check_mark: |  117 |  19-02-14  | 19-03-04 |
 
+### Other projects
+
 #### Systems administration branch
 
 ![SysAdmin Branch > init > Roger-Skyline-1 > Docker-1](https://i.imgur.com/jwWFtjd.png "SysAdmin Branch")
@@ -93,9 +95,7 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 | Roger-Skyline-1 |      Systems administration and networks basics     |           Unix, systems administration           |    Solo    | :hourglass: |      |            |          |
 |     Docker-1    |                Think with containers!               | Micro services, docker, unix, containers, DevOps |    Solo    | :hourglass: |      |            |          |
 
-## Other projects
-
-### Machile learning workshops
+#### Machile learning workshops
 
 Every week I also attend the machine learning workshops with 42AI, the association for Artificial Intelligence at 42. The workshops aim at giving an understanding of the main machine learning algorithms. Every week, a student gives a presentation on an algorithm, followed by a practical application for the attendees to get their hands dirty, using python and numpy.
 I gave the presentation about the k-means clustering algorithm.
