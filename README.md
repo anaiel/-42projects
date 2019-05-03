@@ -17,9 +17,9 @@ I started my cursus in November 2019, and this has been my main occupation since
     + [Cursus Start](#cursus-start)
     + [Algo branch](#algo-branch)
     + [Graphics branch](#graphics-branch)
+  * [Other projects](#other-projects-1)
     + [Systems administration branch](#systems-administration-branch)
-- [Other projects](#other-projects-1)
-  * [Machile learning workshops](#machile-learning-workshops)
+    + [Machile learning workshops](#machile-learning-workshops)
 
 ## Cursus overview
 
