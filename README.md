@@ -1,8 +1,57 @@
+![42 born to code](https://i.imgur.com/CzHkp2y.png "42 Born to Code")
+
+42 is an innovative school in Paris, France where students age 18 and over, regardless of prior education, teach themselves and each other about code. There are no classes, no teachers: the cursus consists of a series of projects students have to complete to gain experience and get to the next levels. Collaboration is key: the students corect each other's projets and learn to cooperate and share their findings and struggles.
+
+I started my cursus in November 2019, and this has been my main occupation since.
+
+## Table of content
+
+- [Cursus overview](#cursus-overview)
+  * [Piscine](#piscine)
+  * [Holy Graph](#holy-graph)
+  * [Other projects](#other-projects)
+- [Projects](#projects)
+  * [Inner circle](#inner-circle)
+    + [Cursus Start](#cursus-start)
+    + [Algo branch](#algo-branch)
+    + [Graphics branch](#graphics-branch)
+    + [Systems administration branch](#systems-administration-branch)
+- [Other projects](#other-projects-1)
+  * [Machile learning workshops](#machile-learning-workshops)
+
+## Cursus overview
+
+Because of its innovative system, there is no strict progression along the cursus and no school year. Students can come to school anytime they want, and validate their projects at their own pace. For every project they validate, they gain experience, which allows them to gain levels, which in turn allows them to finish the cursus once they get to level 21.
+
+The cursus has an estimated duration of 3 years.
+
+### Piscine
+
+The **Piscine** is the selection program to get access to the school. For a month, candidates must complete as many projects, or *days* as possible. The projects are aimed at developping the students coding skills, from scratch. They all use the C language. There are also exams every Friday evenings, as well as *rushes* (2-day group projects) and personnal projects during the weekends.
+
+I attended the August 2018 Piscine, with very little prior knowledge about coding (I used to be an English teacher).
+
+### Holy Graph
+
+Once accepted, students can start their cursus and have more autonomy to choose the projects they want to apply themselves to. The projects are represented on this map, which is called the Holy Graph.
+
+![Holy Graph](https://i.imgur.com/oxohdQY.jpg "Holy Graph")
+
+Students start in the inner circle, on the left. Once they get to the center of the circle, they can choose to continue on the right branch (algorithms), the top branch (unix), or the bottom branch (graphics), which are all C projects. In order to access projects beyond the inner circle, they must get to level 5, complete one of the branches and do a 4- to 6-month internship. The cursus comes to an end with a final intership.
+
+### Other projects
+
+The inner circles also gives access to other projects which tackle other languages : the systems administration projets, the Piscine PHP (which gives access to the web branch), or the electronics program.
+
+On top of that, I also took part in Machine Learning workshops supervised by 42AI, the Artificial Intelligence club at 42.
+
 ## Projects
 
 ### Inner circle
 
 #### Cursus Start
+
+![42 Commandements > Piscine Reloaded > Libft > Get_Next_Line > Fillit](https://i.imgur.com/xgyuozm.png "Cursus Start")
 
 |   Project name   |                   Description                   |                      Goals                     | Solo/Group |   Status  | Mark | Start Date | End Date |
 |:----------------:|:-----------------------------------------------:|:----------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
@@ -14,6 +63,8 @@
 
 #### Algo branch
 
+![Algo branch > Ft_printf > Push_swap > Lem-in > Corewar](https://i.imgur.com/QqK26bX.png "Algo branch")
+
 |     Project name     |                        Description                       |                            Goals                            | Solo/Group |   Status  | Mark | Start Date | End Date |
 |:--------------------:|:--------------------------------------------------------:|:-----------------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 |       [ft_printf](https://github.com/anaiel/ft_printf)      |                   Code your own printf!                  |                Parsing, variational functions               |    Group   | :white_check_mark: |  110 |  18-11-30  | 18-12-23 |
@@ -23,12 +74,16 @@
 
 #### Graphics branch
 
+![Graphics branch > FdF > Fract'ol](https://i.imgur.com/Q1Dh11X.png "Graphics Branch")
+
 | Project name |                  Description                  |                                Goals                                | Solo/Group |   Status  | Mark | Start Date | End Date |
 |:------------:|:---------------------------------------------:|:-------------------------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 |      [FdF](https://github.com/anaiel/fdf)     | Represent the mesh in "wire of a field" in 3D | Simple graphic library, segment layout, events, 3D to 2D projection |    Group   | :white_check_mark: |  125 |  19-01-17  | 19-02-14 |
 |   [Fract'ol](https://github.com/anaiel/fractol)   |   Discover the psychedelic world of fractals  |                     2D programming, optimization                    |    Solo    | :white_check_mark: |  117 |  19-02-14  | 19-03-04 |
 
 #### Systems administration branch
+
+![SysAdmin Branch > init > Roger-Skyline-1 > Docker-1](https://i.imgur.com/jwWFtjd.png "SysAdmin Branch")
 
 |   Project name  |                     Description                     |                       Goals                      | Solo/Group |   Status  | Mark | Start Date | End Date |
 |:---------------:|:---------------------------------------------------:|:------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
