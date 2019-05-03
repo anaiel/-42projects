@@ -37,7 +37,7 @@ I attended the August 2018 Piscine, with very little prior knowledge about codin
 
 Once accepted, students can start their cursus and have more autonomy to choose the projects they want to apply themselves to. The projects are represented on this map, which is called the Holy Graph.
 
-<img align="center" src="https://i.imgur.com/oxohdQY.jpg">
+<p align="center"><img src="https://i.imgur.com/oxohdQY.jpg"></p>
 
 Students start in the inner circle, on the left. Once they get to the center of the circle, they can choose to continue on the right branch (algorithms), the top branch (unix), or the bottom branch (graphics), which are all C projects. In order to access projects beyond the inner circle, they must get to level 5, complete one of the branches and do a 4- to 6-month internship. The cursus comes to an end with a final intership.
 
