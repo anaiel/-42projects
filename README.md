@@ -97,6 +97,8 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 
 #### Machile learning workshops
 
+<a href="https://github.com/42-AI"><img src="https://i.imgur.com/NJdFptU.jpg" align="left" width="100" /></a>
+
 Every week I also attend the machine learning workshops with 42AI, the association for Artificial Intelligence at 42. The workshops aim at giving an understanding of the main machine learning algorithms. Every week, a student gives a presentation on an algorithm, followed by a practical application for the attendees to get their hands dirty, using python and numpy.
 I gave the presentation about the k-means clustering algorithm.
 More information about the content of the workshops and my exercises [here](https://github.com/anaiel/workshops_machinelearning).
