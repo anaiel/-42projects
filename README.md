@@ -1,14 +1,8 @@
 <img align="left" src="https://i.imgur.com/CzHkp2y.png">
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 42 is an innovative school in Paris, France where students age 18 and over, regardless of prior education, teach themselves and each other about code. There are no classes, no teachers: the cursus consists of a series of projects students have to complete to gain experience and get to the next levels. Collaboration is key: the students corect each other's projets and learn to cooperate and share their findings and struggles.
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 
 I started my cursus in November 2019, and this has been my main occupation since.
 
