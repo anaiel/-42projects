@@ -49,13 +49,17 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 
 ## Projects
 
+Grades are given to every project. 100 is the top score for the mandatory part of the project. Points between 100 and 125 are given for bonuses.
+
 ### Inner circle
+
+All project in the inner circle, except the web and SysAdmin branches, are done using the C language and following a strict standard, the **Norm**, which you can find in the *resources* folder. For example, functions cannot have more than 25 lines, there cannot be more than 5 function in a .c file, the Makefile may not relink, etc.
 
 #### Cursus Start
 
 ![42 Commandements > Piscine Reloaded > Libft > Get_Next_Line > Fillit](https://i.imgur.com/xgyuozm.png "Cursus Start")
 
-|   Project name   |                   Description                   |                      Goals                     | Solo/Group |   Status  | Mark | Start Date | End Date |
+|   Project name   |                   Description                   |                      Goals                     | Solo/Group |   Status  | Grade | Start Date | End Date |
 |:----------------:|:-----------------------------------------------:|:----------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 | 42 Commandements |              Welcome, young cadet!              |                 Code of conduct                |    Solo    | :white_check_mark: |  100 |  18-11-05  | 18-11-05 |
 | Piscine Reloaded |     Go over some exercises from the piscine     |                   Basics of C                  |    Solo    | :white_check_mark: |  100 |  18-11-05  | 18-11-06 |
@@ -67,7 +71,7 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 
 ![Algo branch > Ft_printf > Push_swap > Lem-in > Corewar](https://i.imgur.com/QqK26bX.png "Algo branch")
 
-|     Project name     |                        Description                       |                            Goals                            | Solo/Group |   Status  | Mark | Start Date | End Date |
+|     Project name     |                        Description                       |                            Goals                            | Solo/Group |   Status  | Grade | Start Date | End Date |
 |:--------------------:|:--------------------------------------------------------:|:-----------------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 |       [ft_printf](https://github.com/anaiel/ft_printf)      |                   Code your own printf!                  |                Parsing, variational functions               |    Group   | :white_check_mark: |  110 |  18-11-30  | 18-12-23 |
 |       [Push_swap](https://github.com/anaiel/push_swap)      |          Sort a stack as efficiently as possible         |      Sorting algorithms, basics of stacks manipulations     |    Solo    | :white_check_mark: |  125 |  18-12-27  | 19-02-11 |
@@ -78,7 +82,7 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 
 ![Graphics branch > FdF > Fract'ol](https://i.imgur.com/Q1Dh11X.png "Graphics Branch")
 
-| Project name |                  Description                  |                                Goals                                | Solo/Group |   Status  | Mark | Start Date | End Date |
+| Project name |                  Description                  |                                Goals                                | Solo/Group |   Status  | Grade | Start Date | End Date |
 |:------------:|:---------------------------------------------:|:-------------------------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 |      [FdF](https://github.com/anaiel/fdf)     | Represent the mesh in "wire of a field" in 3D | Simple graphic library, segment layout, events, 3D to 2D projection |    Group   | :white_check_mark: |  125 |  19-01-17  | 19-02-14 |
 |   [Fract'ol](https://github.com/anaiel/fractol)   |   Discover the psychedelic world of fractals  |                     2D programming, optimization                    |    Solo    | :white_check_mark: |  117 |  19-02-14  | 19-03-04 |
@@ -89,7 +93,7 @@ On top of that, I also took part in Machine Learning workshops supervised by 42A
 
 ![SysAdmin Branch > init > Roger-Skyline-1 > Docker-1](https://i.imgur.com/jwWFtjd.png "SysAdmin Branch")
 
-|   Project name  |                     Description                     |                       Goals                      | Solo/Group |   Status  | Mark | Start Date | End Date |
+|   Project name  |                     Description                     |                       Goals                      | Solo/Group |   Status  | Grade | Start Date | End Date |
 |:---------------:|:---------------------------------------------------:|:------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
 |       Init      | Introduction to systems administration and networks |           Unix, systems administration           |    Solo    | :white_check_mark: |  100 |  18-12-13  | 18-12-22 |
 | Roger-Skyline-1 |      Systems administration and networks basics     |           Unix, systems administration           |    Solo    | :hourglass: |      |            |          |
