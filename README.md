@@ -19,6 +19,7 @@ I started my cursus in November 2019, and this has been my main occupation since
     + [Graphics branch](#graphics-branch)
   * [Other projects](#other-projects-1)
     + [Systems administration branch](#systems-administration-branch)
+    + [Web Branch](#Web-branch)
     + [Machile learning workshops](#machile-learning-workshops)
 
 ## Cursus overview
@@ -98,6 +99,17 @@ All project in the inner circle, except the web and SysAdmin branches, are done 
 |       Init      | Introduction to systems administration and networks |           Unix, systems administration           |    Solo    | :white_check_mark: |  100 |  18-12-13  | 18-12-22 |
 | Roger-Skyline-1 |      Systems administration and networks basics     |           Unix, systems administration           |    Solo    | :hourglass: |      |            |          |
 |     Docker-1    |                Think with containers!               | Micro services, docker, unix, containers, DevOps |    Solo    | :hourglass: |      |            |          |
+
+#### Web Branch
+
+![Web Branch > Piscine PHP > Camagru > Matcha > Hypertube](https://i.imgur.com/iERoPkp.png "Web Branch")
+
+| Project Name | Description | Goals | Solo/Group | Status | Grade | Start Date | End Date |
+|--------------|-------------|-------|------------|--------|-------|------------|----------|
+| [Piscine PHP](https://github.com/anaiel/php_piscine) | Introduction to basic web technologies | HTML, procedural PHP, Web server, SQL, object oriented PHP | Solo | :white_check_mark: | 104 | 05-20-2019 | 06-02-2019 |
+| Camagru | Create an instagram-like website | User management, permissions, mailing, security/data validation | Solo | :hourglass: | | | |
+| Matcha | Create a dating website | Micro-framework, advanced user management, real-time web, geolocation, security/data validation  | Group | :hourglass: | | | |
+| Hypertube | Create an video streaming website | MVC framework, Omniauth, Background jobs, Internationalisation  | Group | :hourglass: | | | |
 
 #### Machile learning workshops
 
