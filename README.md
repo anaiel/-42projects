@@ -77,7 +77,7 @@ All project in the inner circle, except the web and SysAdmin branches, are done 
 |       [ft_printf](https://github.com/anaiel/ft_printf)      |                   Code your own printf!                  |                Parsing, variational functions               |    Group   | :white_check_mark: |  110 |  18-11-30  | 18-12-23 |
 |       [Push_swap](https://github.com/anaiel/push_swap)      |          Sort a stack as efficiently as possible         |      Sorting algorithms, basics of stacks manipulations     |    Solo    | :white_check_mark: |  125 |  18-12-27  | 19-02-11 |
 |        [Lem-in](https://github.com/anaiel/lem-in)        | How long will it take the ants to get out of their maze? |                Graph search, max flow problem               |    Group   | :white_check_mark: |  124 |  19-03-06  | 19-04-29 |
-|        Corewar       |                   Let the fight begin!                   | Compilation, simple VM, simplified assembler, visualization |    Group   | :construction: |      |  19-30-04  |          |
+|        [Corewar](https://github.com/anaiel/corewar)       |                   Let the fight begin!                   | Compilation, simple VM, simplified assembler, visualization |    Group   | :white_check_mark: |   125🌟   |  19-30-04  | 19-07-15         |
 
 #### Graphics branch
 
