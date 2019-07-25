@@ -70,7 +70,7 @@ All project in the inner circle, except the web and SysAdmin branches, are done 
 
 #### Algo branch
 
-![Algo branch > Ft_printf > Push_swap > Lem-in > Corewar](https://i.imgur.com/QqK26bX.png "Algo branch")
+![Algo branch > Ft_printf > Push_swap > Lem-in > Corewar](https://i.imgur.com/h9h0Mnn.png "Algo branch")
 
 |     Project name     |                        Description                       |                            Goals                            | Solo/Group |   Status  | Grade | Start Date | End Date |
 |:--------------------:|:--------------------------------------------------------:|:-----------------------------------------------------------:|:----------:|:---------:|:----:|:----------:|:--------:|
