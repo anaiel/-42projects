@@ -127,11 +127,14 @@ More information about the content of the workshops and my exercises [here](http
 ### 🎮 First internship
 
 Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
+
 🔧 Stack: NodeJS, Express, Angular + Jest for tests
+
 📋 As a web developer, my tasks where to:
 - fix bugs and improve the current website
 - maintain the API for the quiz game
 - provide new features for the quiz game (such as importing or exporting questions from/to files with various formats)
+
 🏔 Some of the challenges I encountered where to:
 - set up Jest, create tests and start working with test driven development
 - review some security aspects: log in for the users (with OAuth), priviledges depending on the type of user, JWT for the game API, etc
