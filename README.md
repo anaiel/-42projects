@@ -21,6 +21,7 @@ I started my cursus in November 2019, and this has been my main occupation since
     + [Systems administration branch](#systems-administration-branch)
     + [Web Branch](#Web-branch)
     + [Machile learning workshops](#machile-learning-workshops)
+- [Work experience](#work-experience)
 
 ## Cursus overview
 
@@ -40,7 +41,7 @@ Once accepted, students can start their cursus and have more autonomy to choose 
 
 <p align="center"><img src="https://i.imgur.com/oxohdQY.jpg"></p>
 
-Students start in the inner circle, on the left. Once they get to the center of the circle, they can choose to continue on the right branch (algorithms), the top branch (unix), or the bottom branch (graphics), which are all C projects. In order to access projects beyond the inner circle, they must get to level 5, complete one of the branches and do a 4- to 6-month internship. The cursus comes to an end with a final intership.
+Students start in the inner circle, on the left. Once they get to the center of the circle, they can choose to continue on the right branch (algorithms), the top branch (unix), or the bottom branch (graphics), which are all C projects. In order to access projects beyond the inner circle, they must get to level 5, complete one of the branches and do a 4- to 6-month internship (the internship was rendered optionnal in a later version of the cursus). The cursus comes to an end with a final intership.
 
 ✏️ So far I am still within the inner circle and have completed a couple of graphics projects and the PHP piscine, but my main focus has been on the algorithm branch, which I finally completed in July 2019!
 
@@ -117,6 +118,22 @@ All project in the inner circle, except the web and SysAdmin branches, are done 
 
 <a href="https://github.com/42-AI"><img src="https://i.imgur.com/NJdFptU.jpg" align="left" width="110" /></a>
 
-Every week I attend the machine learning workshops with [42AI](https://github.com/42-AI), the association for Artificial Intelligence at 42. The workshops aim at giving an understanding of the main machine learning algorithms. Every week, a student gives a presentation on an algorithm, followed by a practical application for the attendees to get their hands dirty, using python and numpy.
+Every thursday for 14 weeks in 2019, I attended the machine learning workshops with [42AI](https://github.com/42-AI), the association for Artificial Intelligence at 42. The workshops aim at giving an understanding of the main machine learning algorithms. Every week, a student gives a presentation on an algorithm, followed by a practical application for the attendees to get their hands dirty, using python and numpy.
 I gave the presentation about the k-means clustering algorithm.
 More information about the content of the workshops and my exercises [here](https://github.com/anaiel/workshops_machinelearning).
+
+## Work Experience
+
+### 🎮 First internship
+
+Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
+🔧 Stack: NodeJS, Express, Angular + Jest for tests
+📋 As a web developer, my tasks where to:
+- fix bugs and improve the current website
+- maintain the API for the quiz game
+- provide new features for the quiz game (such as importing or exporting questions from/to files with various formats)
+🏔 Some of the challenges I encountered where to:
+- set up Jest, create tests and start working with test driven development
+- review some security aspects: log in for the users (with OAuth), priviledges depending on the type of user, JWT for the game API, etc
+- work with legacy code: it was evident that there had been little effort made to provide code style guidelines or to refactor code efficiently, which meant that the existing code was difficult to understand and to maintain. Many a bug fix lead to more bugs being created unintentionally. This was an important problem to tackle considering the team working on the website changed often, meaning legible code was crucial, and strict style guidelines (we started using Prettier) seemed the only way of ensuring consistency.
+- draft a plan for a new application
