@@ -22,6 +22,7 @@ I started my cursus in November 2019, and this has been my main occupation since
     + [Web Branch](#Web-branch)
     + [Machile learning workshops](#machile-learning-workshops)
 - [Work experience](#work-experience)
+  * [First internship](#first-internship-fullstack-web-developer)
 
 ## Cursus overview
 
@@ -124,19 +125,19 @@ More information about the content of the workshops and my exercises [here](http
 
 ## Work Experience
 
-### 🎮 First internship
-
-Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
+### 🎮 First internship: Fullstack web developer
 
 🔧 Stack: NodeJS, Express, Angular + Jest for tests
 
-📋 As a web developer, my tasks where to:
-- fix bugs and improve the current website
-- maintain the API for the quiz game
-- provide new features for the quiz game (such as importing or exporting questions from/to files with various formats)
+Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
 
-🏔 Some of the challenges I encountered where to:
-- set up Jest, create tests and start working with test driven development
-- review some security aspects: log in for the users (with OAuth), priviledges depending on the type of user, JWT for the game API, etc
-- work with legacy code: it was evident that there had been little effort made to provide code style guidelines or to refactor code efficiently, which meant that the existing code was difficult to understand and to maintain. Many a bug fix lead to more bugs being created unintentionally. This was an important problem to tackle considering the team working on the website changed often, meaning legible code was crucial, and strict style guidelines (we started using Prettier) seemed the only way of ensuring consistency.
-- draft a plan for a new application
+📋 As a web developer, my tasks where to:
+- [x] fix bugs and improve the current website
+- [x] maintain the API for the quiz game
+- [x] provide new features for the quiz game (such as importing or exporting questions from/to files with various existing formats)
+
+A particularity of the development team at Ikigai is that, for various reasons, the team changes very often. It means that at one point there might not be someone with experience with some parts of the codebase, and the question of legacy code and maintaining code quality is paramount. We decided to take on the challenge of creating a better experience for future developers by improving the codebase and development flow:
+1. I started using a Test Driven Development approach, by setting up Jest and going from 0 to ... unit tests.
+2. I refactored parts of the codebase that we worked on most often to have one source of truth on how CRUD operations should be conducted regarding the questions of the quiz game.
+3. I included Jest, Prettier and ESLint as git hooks to be run before changes could be pushed to a git branch and made sure the code of the files I modified passed the different tests.
+4. I improved the Angular code on parts of the application I made changes to to make the most of TypeScript's features.
