@@ -143,7 +143,7 @@ Between October 2019 and March 2020 I completed my first intership with [Ikigai]
 - [x] provide new features for the quiz game (such as importing or exporting questions from/to files with various existing formats)
 
 A particularity of the development team at Ikigai is that, for various reasons, the team changes very often. It means that at one point there might not be someone with experience with some parts of the codebase, and the question of legacy code and maintaining code quality is paramount. We decided to take on the challenge of creating a better experience for future developers by improving the codebase and development flow:
-1. I started using a Test Driven Development approach, by setting up Jest and going from 0 to ... unit tests.
+1. I started using a Test Driven Development approach, by setting up Jest writing unit tests.
 2. I refactored parts of the codebase that we worked on most often to have one source of truth on how CRUD operations should be conducted regarding the questions of the quiz game.
 3. I included Jest, Prettier and ESLint as git hooks to be run before changes could be pushed to a git branch and made sure the code of the files I modified passed the different tests.
 4. I improved the Angular code on parts of the application I made changes to to make the most of TypeScript's features.
