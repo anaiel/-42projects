@@ -127,9 +127,11 @@ More information about the content of the workshops and my exercises [here](http
 
 ### 🎮 First internship: Fullstack web developer
 
-![Node.js](https://nodejs.org/static/images/logo.svg "Node.js")
-
-🔧 Stack: NodeJS, Express, Angular + Jest for tests
+<img src="https://i.imgur.com/lq3UKz3.png" alt="JavaScript" />
+<img src="https://i.imgur.com/h680RhG.png" alt="TypeScript" />
+<img src="https://i.imgur.com/Ph5GZRi.png" alt="Node.js" />
+<img src="https://i.imgur.com/hINvCzE.png" alt="Angular" />
+<img src="https://i.imgur.com/Bl7MT3p.png" alt="Jest" />
 
 Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
 
