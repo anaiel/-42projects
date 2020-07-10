@@ -129,12 +129,12 @@ More information about the content of the workshops and my exercises [here](http
 
 Between October 2019 and March 2020 I completed my first intership with [Ikigai](https://ikigai.games) as a web developer. Ikigai is a small team of game designers, game developers and web developers working with the Sorbonne Université (Université Pierre et Marie Curie) to create free educational games for university students, focusing on providing a regular video game quality experience. They have been working on topics such as fake news, gravitation, etc. The web development part of the project focuses on developing a steam-like website to download games developed by the Ikigai team (and, in the long run, other educational games), and provide the architecture for a quiz game (for which professors at the university should be able to create and edit questions).
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
-<img src="https://i.imgur.com/lq3UKz3.png" alt="JavaScript" height="50px" width="auto" />
-<img src="https://i.imgur.com/h680RhG.png" alt="TypeScript" height="50px" width="auto" />
-<img src="https://i.imgur.com/Ph5GZRi.png" alt="Node.js" height="50px" width="auto" />
-<img src="https://i.imgur.com/hINvCzE.png" alt="Angular" height="50px" width="auto" />
-<img src="https://i.imgur.com/Bl7MT3p.png" alt="Jest" height="50px" width="auto" />
+<div style="display:flex;flex-direction:row;justify-content:center;width:100%;">
+<img src="https://i.imgur.com/6qawjWT.png" alt="JavaScript" height="50px" width="auto" />
+<img src="https://i.imgur.com/SvCAvfh.png" alt="TypeScript" height="50px" width="auto" />
+<img src="https://i.imgur.com/jo7l5zY.png" alt="Node.js" height="50px" width="auto" />
+<img src="https://i.imgur.com/60BbKRx.png" alt="Angular" height="50px" width="auto" />
+<img src="https://i.imgur.com/4HFsVqE.png" alt="Jest" height="50px" width="auto" />
 </div>
 
 📋 As a web developer, my tasks where to:
